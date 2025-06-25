@@ -1,4 +1,4 @@
-# 💊 Pharmacy Drug Management System
+# 💊 Pharmacy Management System
 
 A simple, robust web-based application for managing pharmacy operations including medicines, users, orders, and sales. This Java-based project is built using Spring MVC, JSP/Servlets, and MySQL, following the MVC architecture pattern.
 
