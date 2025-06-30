@@ -27,3 +27,16 @@ This system allows vendors to manage medicines and customers to browse, purchase
 | Tools      | Apache Tomcat, MySQL Workbench |
 
 
+## 📸 Screenshots
+
+### 🏠 Customer Home Page
+![Customer Home Page](screenshots/CustomerHomePage.png)
+
+### 📝 Register Page
+![Register Page](screenshots/RegisterPage.png)
+
+### 🧑‍💼 Vendor Home Page
+![Vendor Home Page](screenshots/VendorHomePage.png)
+
+
+
